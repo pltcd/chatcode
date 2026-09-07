@@ -9,19 +9,21 @@
 
 I was once tired of looking for properly working Twitch chat widget. I was using [ChatIS](https://chatis.is2511.com/) for a while, but it didn't work long enough for me and couple of my friends. (*Fair to say, it happened just for us. If this widget does work for you, go ahead :)*) So I vibecoded one :D
 
-This project is also my first experience on vibecoding, using [Claude](https://claude.ai/new) for the entirety of this project, since I know nothing in programming and coding. (I really wanted to make it though!)
+This project is also my first experience on vibecoding, using [Claude](https://claude.ai/new) and [DeepSeek](https://chat.deepseek.com) for the entirety of this project, since I know nothing in programming and coding. (I really wanted to make it though!)
 
 https://github.com/user-attachments/assets/8c71ab1b-2a53-4961-947f-d9a57a35b99a
 
 ## Features
 - Simple chat layout (just text) with color-coded usernames
+- 3 different message alignments: Left, Right, "Usernames to the left, Messages to the right"
+- Twitch and YouTube support
 - Write-on messages
 - Font style picker
 - Customizable background gradient
 
 ## Setup
-- Download the latest version of ***ChatCode*** from [Releases](https://github.com/pltcd/chatcode/releases) tab
-- In ***OBS Studio***, click ***Add Source* → *Browser* →** name the source however you want (ex. ***Chatbox***)
+- Download [the latest version](https://github.com/pltcd/chatcode/releases/latest) of ***ChatCode***
+- In ***OBS Studio***, click ***Add Source* → *Browser* →** name the source however you want (ex. ***Chat Box***)
 - Check ***Local File***. In ***Local File*** select the downloaded file. Set ***Width*** and ***Height*** of your choice. Click ***Done***
 - In preview select Chatbox and click ***Interact***. The ***Twitch Chat Overlay*** window will appear
 - Enter your ***Channel Name***, and (optional) ***Blocked Usernames*** for chat bots (*like StreamElements, Nightbot etc.*)
