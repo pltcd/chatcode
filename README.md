@@ -37,5 +37,3 @@ https://github.com/user-attachments/assets/8c71ab1b-2a53-4961-947f-d9a57a35b99a
 ## To-do
 (or to-vibecode, if you will)
 - Menu GUI theme color picker (?) (for those of you who don't really enjoy the default purple theme)
-- YouTube integration (maybe??)
-- Combined YouTube AND Twitch chats feature (maybeeee i guess??)
